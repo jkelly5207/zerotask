@@ -1,9 +1,16 @@
 # ZeroTask
 
 <h1 align="center">
-  <br>
-  <a href="https://zerotask.dev"><img src="https://github.com/DomCritchlow/ZeroTask/blob/master/assets/Asset 3.png" alt="ZeroTask" width="200"></a>
-  <br>
-  ZeroTask
-  <br>
+  <a href="https://zerotask.dev"><img src="assets/1x/Asset 3.png" alt="ZeroTask" width=auto></a>
 </h1>
+
+
+## Projects
+
+* [Covid Application](https://zerotask.dev)
+
+
+## Contributors
+
+* [Travis Hodge](https://travishodge.com)
+* [Dominic Critchlow](https://dominiccritchlow.com)
