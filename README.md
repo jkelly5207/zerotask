@@ -1,3 +1,9 @@
+---
+noteId: "f2f936b0daa111ea952563bcff89db69"
+tags: []
+
+---
+
 # ZeroTask
 
 <h1 align="center">
